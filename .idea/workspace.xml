@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e37b349-c1ac-4372-b554-1e674ee04cfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuU5T3Javadocs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/Prism.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/jquery-ui.overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocs/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shopper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IgLr6kKjWyIVB4x9GZYO5lSe4j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e37b349-c1ac-4372-b554-1e674ee04cfb" name="Changes" comment="" />
+      <created>1670598475885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670598475885</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
